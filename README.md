@@ -1,4 +1,6 @@
-
+- Made by: Adyatama Mahabarata
+- Class : L1BC
+- NIM : 2602158626
 
 ## Let's first implement a sign up modal box in jQuery!
 
