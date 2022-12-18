@@ -1,4 +1,5 @@
 //Please put your answer here
+
 $('.fa-times').click(
     function()
 {
